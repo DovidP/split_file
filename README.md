@@ -11,4 +11,5 @@ optional arguments:
   -f FILENAME  filename to split or directory to rebuild
   -s SIZE      specify size of each chunk, defualt is 25MB
   -m {s,b}     select mode 'b' to build, 's' to split
-  ```
+  -o OUT_DIR   specify an output directory
+```
